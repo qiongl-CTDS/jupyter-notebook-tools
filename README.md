@@ -9,7 +9,7 @@ Additional information on creating `custom tempaltes for nbconvert` can be found
 
 - Run the command line blow
 ```
-jupyter nbconvert <PAHT_TO_IPYNB} --to html --no-prompt --template <TEMPLATE_NAME> --TemplateExporter.extra_template_basedirs <TEMPLATES_FOLDER> --output <OUTPUT_HTML_BASENAME>
+jupyter nbconvert <PAHT_TO_IPYNB> --to html --no-prompt --template <TEMPLATE_NAME> --TemplateExporter.extra_template_basedirs <TEMPLATES_FOLDER> --output <OUTPUT_HTML_BASENAME>
 ```
 A real example using the notebook inside this repo would be 
 ```
