@@ -4,6 +4,8 @@ This repository contains several `nbconvert templates` to convert jupyter notebo
 
 Additional information on creating `custom tempaltes for nbconvert` can be found [HERE](https://nbconvert.readthedocs.io/en/latest/customizing.html)
 
+*Note*: These templates have been tested with Python3.7 and 3.8
+
 ## How to
 - Assuming that both **jupyter notebook and nbconvert** have been installed successfully, copy the the `converted_html_examples/` folder to local.
 
