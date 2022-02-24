@@ -7,7 +7,7 @@ Additional information on creating `custom tempaltes for nbconvert` can be found
 *Note*: These templates have been tested with Python3.7 and 3.8
 
 ## How to
-- Assuming that both **jupyter notebook and nbconvert** have been installed successfully, copy the the `converted_html_examples/` folder to local.
+- Assuming that both **jupyter notebook and nbconvert** have been installed successfully, copy the contents of `converted_html_examples/` folder to the local template location.
 
 - Run the command line blow
 ```
